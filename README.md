@@ -1,7 +1,7 @@
 # Patrick Wan
 
 # About Me
-My name's Patrick 👦. I'm a PHP Developer working in [Odesi eCOB](https://odesi.tech/).  
+My name's Patrick 👦. I'm a Senior Fullstack Developer working in [Genejunction Sdn Bhd]([https://odesi.tech/](https://genejunction.com/)).  
 💪  Like to learn any new technology, such as Laravel Livewire, Flutter, Vue JS, React JS, etc.  
 👨‍💻 I'm also a Technical Writer 📰 [@Medium](https://medium.com/@patrickwanchinyeep).  
 💬  Reach me out for any problem faced in Web Backend development (Laravel, React JS, Vue JS, Jquery). I'm open to feedback and suggestions!.  
